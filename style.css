@@ -112,7 +112,7 @@ div h2{
 }
 @media screen and (min-width: 1200px){
     body{
-        padding-top: 5%;
+        padding-top: 10%;
     }
     .container{
         max-width: 25%;
